@@ -12,7 +12,7 @@ There're some comments to explain a little bit some functions;
 * Go to **Webstorm settings -> Languages & Frameworks -> JavaScript -> Prettier**;
 * It should be turned on automatically
    - If not - turn it on
-   - If needed - add ~\Documents\GitHub\MyTests\node_modules\Prettier to the Prettier package path
+   - If needed - add **~\Documents\GitHub\MyTests\node_modules\Prettier** to the Prettier package path
 * To apply Prettier to your code press **Ctrl+Shift+Alt+P** (Windows OS) or ~~probably~~ **Cmnd+Shift+Alt+P**(MacOS)
 
 ## About some packages I added:
