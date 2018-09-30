@@ -2,7 +2,7 @@
 
 There're some comments to explain a little bit some functions;
 
-###### To turn on linter and Prettier:
+## To turn on linter and Prettier:
 
 * Go to **Webstorm settings -> Languages & Frameworks -> JavaScript -> Code Quality Tool -> ESLint**;
 * It should be turned on automatically
@@ -15,12 +15,12 @@ There're some comments to explain a little bit some functions;
    - If needed - add ~\Documents\GitHub\MyTests\node_modules\Prettier to the Prettier package path
 * To apply Prettier to your code press **Ctrl+Shift+Alt+P** (Windows OS) or ~~probably~~ **Cmnd+Shift+Alt+P**(MacOS)
 
-###### About some packages I added:
+## About some packages I added:
 
 * **dotenv** will help you to hide confidential data, e.g. credentials or testing host;
 * **moment** will help you to work with time
 
-###### To make it work:
+## To make it work:
 
 * Clone/download this to your computer
 * Run **yarn install:deps** from your terminal to install all packages
