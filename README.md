@@ -23,8 +23,9 @@ There're some comments to explain a little bit some functions;
 ## To make it work:
 
 * Clone/download this to your computer
-* Run **yarn install:deps** from your terminal to install all packages
-* Run **yarn install:selenium** from your terminal to install selenium standalone
-* Run **yarn test** to run tests
-* Run **yarn allure-report** to generate and open report
-* Run **yarn precommit** before making a commit to GitHub to pass you code through ESLint
+* Run **npm run install:deps** from your terminal to install all packages
+* Run **npm run install:selenium** from your terminal to install selenium standalone
+* Run **npm run test** to run tests
+* Run **npm run allure-report** to generate and open report
+
+## Tests may fail because of changed data or required email confirmation for authorization 
